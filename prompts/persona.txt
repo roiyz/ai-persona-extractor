@@ -1,0 +1,91 @@
+I’m a product manager for a software-defined storage system. I’m constantly trying to understand our industry and our users. Use the data from our Confluence pages—specifically customer meeting notes, internal discussion resolutions, and related documentation—to identify and analyze our main customer and support personas.
+
+ANALYSIS OBJECTIVES:
+1. Identify distinct customer personas beyond just executive decision makers.
+2. Cover both technical users (system engineers, architects) and business stakeholders.
+3. Distinguish between external personas (customers who use our product) and internal personas (employees who support or sell it).
+4. Focus on accuracy and relevancy—include only personas with clear evidence in Confluence content.
+
+PERSONA CATEGORIES TO ANALYZE:
+A) EXTERNAL CUSTOMER PERSONAS (Product Users):
+   - Decision makers (CIOs, IT Directors, etc.)
+   - Technical implementers (System Engineers, Storage Admins, DevOps)
+   - End users who interact with the storage system (IT generalists, DBAs and Compute Admins who need storage)
+   - Influencers in the buying process
+
+B) INTERNAL SUPPORT PERSONAS (Our Team):
+   - Customer Support Engineers
+   - Sales Engineers
+   - Professional Services Consultants
+   - Technical Account Managers
+
+EXTRACTION REQUIREMENTS:
+For each identified persona, locate and validate within Confluence pages:
+1. ROLE & DEMOGRAPHICS:
+   - Job title and organizational level
+   - Industry sectors they represent
+   - Company size profiles
+   - Geographic regions referenced
+2. TECHNICAL PROFILE:
+   - Expertise level (beginner/intermediate/expert)
+   - Technology stack experience (e.g. Linux, Kubernetes, NVMe/TCP)
+   - Storage/infrastructure background
+   - Preferred tools and platforms
+3. RESPONSIBILITIES & GOALS:
+   - Core job responsibilities
+   - Key metrics or KPIs they’re measured on
+   - Business objectives they aim to achieve
+   - Technical challenges they must solve
+4. PAIN POINTS & CONSTRAINTS:
+   - Storage/infrastructure problems they face
+   - Budget or resource limitations
+   - Compliance and security requirements
+   - Integration and scalability hurdles
+5. INTERACTION PATTERNS:
+   - How they discover and evaluate storage solutions
+   - Information sources they consult (e.g., Confluence knowledge base, customer forums)
+   - Their role in purchase decision processes
+   - Communication preferences and channels
+6. PRODUCT RELATIONSHIP:
+   - How they use or interact with our storage system
+   - Specific features or capabilities they value most
+   - Support and service needs
+   - Success criteria for storage deployments
+7. EVIDENCE LINKS:
+   - Include the URL of each Confluence page where you found this evidence
+
+ACCURACY & VALIDATION:
+- Include only personas mentioned in at least two separate Confluence pages.
+- Cite specific page titles, section headings, and URLs for each attribute.
+- Mark confidence level per attribute:
+  • HIGH (direct quote)
+  • MEDIUM (strongly implied)
+  • LOW (inferred)
+- Cross-reference across pages to resolve any contradictions.
+
+OUTPUT FORMAT (for each persona):
+PERSONA NAME: [Concise, descriptive label]  
+CATEGORY: [External Customer / Internal Support]  
+CONFIDENCE LEVEL: [High / Medium / Low]
+
+PROFILE:
+- Role & Demographics: [Details + Confluence page refs + URLs]
+- Technical Profile: [Skills/expertise + URLs]
+- Key Responsibilities: [Primary job functions + URLs]
+
+NEEDS & CHALLENGES:
+- Primary Goals: [Objectives + URLs]
+- Pain Points: [Problems + URLs]
+- Success Criteria: [How they measure success + URLs]
+
+PRODUCT INTERACTION:
+- Usage Patterns: [How they engage with our system + URLs]
+- Valued Features: [Top capabilities + URLs]
+- Support Needs: [Required services + URLs]
+
+EVIDENCE BASE:
+- Source Pages: [List of Confluence page titles, section anchors, and URLs]
+- Direct Quotes: [Exact excerpts + URLs]
+- Cross-References: [Notes on consistency across URLs]
+
+Don’t identify more than 3 personas per page; pick the most prominent personas.
